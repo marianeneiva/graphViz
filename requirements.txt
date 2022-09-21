@@ -1,0 +1,3 @@
+networkx==2.8.4
+streamlit_agraph
+PIL
